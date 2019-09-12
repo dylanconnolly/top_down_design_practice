@@ -11,11 +11,18 @@ Reaheating meal
     1.2.3 add additional spices
 2. Warm meal
   2.1 Select device to Warm
-    2.1.1 Select Oven
-    2.1.2 Select Microwave
-    2.1.3 Select Stove
+    2.1.1 Select oven
+      2.1.1.1 select method
+        2.1.1.1.1 select broil
+        2.1.1.1.2 select bake
+      2.1.1.2 select temperature
+      2.1.1.3 select time
+    2.1.2 Select microwave
+      2.1.2.1 select time
+      2.1.2.2 select heat setting
+    2.1.3 Select stove
       2.1.3.1 turn stove on
       2.1.3.2 select tempurature
-      2.1.3.3
+      2.1.3.3 select time
 3. Serve meal
 4. Eat meal
